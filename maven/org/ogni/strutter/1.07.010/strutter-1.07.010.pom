@@ -6,6 +6,14 @@
 	<packaging>jar</packaging>
 	<version>1.07.010</version>
 	
+	<repositories>
+		<repository>
+			<id>ogni</id>
+			<name>ogni repository</name>
+			<url>https://svn.code.sf.net/p/strutter/code/maven</url>
+		</repository>
+	</repositories>
+	
 	<build>
 		<plugins>
 			<plugin>
