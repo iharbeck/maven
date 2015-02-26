@@ -4,7 +4,7 @@
 	<groupId>org.ogni</groupId>
 	<artifactId>gawky</artifactId>
 	<packaging>jar</packaging>
-	<version>1.02.002</version>
+	<version>1.02.004</version>
 
 	<build>
 		<plugins>
@@ -194,7 +194,7 @@
 		<dependency>
 			<groupId>org.javassist</groupId>
 			<artifactId>javassist</artifactId>
-			<version>3.18.2-GA</version>
+			<version>3.19.0-GA</version>
 		</dependency>
 
 		<dependency>
